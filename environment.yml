@@ -1,0 +1,6 @@
+name: mario
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - gym-super-mario-bros
